@@ -65,13 +65,13 @@ let getWeather = () => {
 
         // Define background images for different weather conditions
         const backgroundImages = {
-          "Clear": "./assets/clearsky.gif",
           "Clouds": "./assets/cloudy.gif",
+          "Thunderstorm": "./assets/thunder.gif",
           "Rain": "./assets/rain.gif",
           "Haze": "./assets/haze.gif",
           "Mist": "./assets/mist.gif",
           "Sunny": "./assets/sunny.gif",
-          "Thunderstrom": "./assets/tunder.gif"
+           
            
           // Add more conditions and corresponding image URLs as needed
         };
